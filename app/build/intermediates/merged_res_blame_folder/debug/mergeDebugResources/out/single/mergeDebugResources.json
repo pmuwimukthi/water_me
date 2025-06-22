@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\layout_activity_add_plant.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\layout\\activity_add_plant.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_plant5.png.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\plant5.png"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\layout_activity_plant_profile.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\layout\\activity_plant_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.s23010300.waterme.app-debug-36:/layout_activity_plant_profile.xml.flat",
+        "source": "com.s23010300.waterme.app-main-38:/layout/activity_plant_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_plant2.png.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\plant2.png"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_plant4.png.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\plant4.png"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\layout_item_plant.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\layout\\item_plant.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-pngs-32:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_plant1.png.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\plant1.png"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_plant6.png.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\plant6.png"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_plant3.png.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\plant3.png"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-debug-36:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\pmask\\.gradle\\daemon\\8.11.1\\com.s23010300.waterme.app-main-38:\\drawable\\ic_settings.xml"
+    }
+]
