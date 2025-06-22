@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F5F5">
+
+    <!-- Header -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:background="@android:color/white"
+        android:elevation="4dp">
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_back"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:scaleType="centerInside"
+            android:padding="8dp" />
+
+        <TextView
+            android:id="@+id/tv_plant_name_header"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Plant Profile"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#333333"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="16dp" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Plant Info Card -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:gravity="center_horizontal">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/img_plant_profile"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/plant1"
+                        app:civ_border_width="3dp"
+                        app:civ_border_color="#E0E0E0"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/tv_plant_name_profile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Plant Name"
+                        android:textSize="24sp"
+                        android:textStyle="bold"
+                        android:textColor="#333333"
+                        android:layout_marginBottom="8dp" />
+
+                    <TextView
+                        android:id="@+id/tv_plant_description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Plant description"
+                        android:textSize="16sp"
+                        android:textColor="#666666"
+                        android:textAlignment="center"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/tv_watering_frequency"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Water: 2 times per week"
+                        android:textSize="16sp"
+                        android:textColor="#4CAF50"
+                        android:layout_marginBottom="16dp" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/btn_water_now"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Water Now"
+                            android:textColor="@android:color/white"
+                            android:backgroundTint="#2196F3"
+                            android:paddingStart="24dp"
+                            android:paddingEnd="24dp"
+                            android:layout_marginEnd="8dp" />
+
+                        <Button
+                            android:id="@+id/btn_delete_plant"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Delete Plant"
+                            android:textColor="@android:color/white"
+                            android:backgroundTint="#F44336"
+                            android:paddingStart="24dp"
+                            android:paddingEnd="24dp"
+                            android:layout_marginStart="8dp" />
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Tip: Shake your phone to water this plant!"
+                        android:textSize="14sp"
+                        android:textColor="#666666"
+                        android:textStyle="italic"
+                        android:layout_marginTop="16dp" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- Watering History -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Watering History"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#333333"
+                android:layout_marginBottom="12dp" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_watering_history"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:nestedScrollingEnabled="false" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
