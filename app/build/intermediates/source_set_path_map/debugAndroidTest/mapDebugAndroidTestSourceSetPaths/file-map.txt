@@ -1,0 +1,5 @@
+com.s23010300.waterme.test.app-core-1.6.1-0 C:\Users\pmask\.gradle\caches\8.11.1\transforms\62eb03caa581a4b63ebe22f1d27c52da\transformed\core-1.6.1\res
+com.s23010300.waterme.test.app-androidTest-1 C:\Users\pmask\AndroidStudioProjects\Waterme\app\build\generated\res\resValues\androidTest\debug
+com.s23010300.waterme.test.app-mergeDebugAndroidTestResources-2 C:\Users\pmask\AndroidStudioProjects\Waterme\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.s23010300.waterme.test.app-mergeDebugAndroidTestResources-3 C:\Users\pmask\AndroidStudioProjects\Waterme\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.s23010300.waterme.test.app-debugAndroidTest-4 C:\Users\pmask\AndroidStudioProjects\Waterme\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

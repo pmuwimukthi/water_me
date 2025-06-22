@@ -1,0 +1,2 @@
+com.s23010300.waterme.test:style/WhiteBackgroundTheme = 0x7f010001
+com.s23010300.waterme.test:style/WhiteBackgroundDialogTheme = 0x7f010000

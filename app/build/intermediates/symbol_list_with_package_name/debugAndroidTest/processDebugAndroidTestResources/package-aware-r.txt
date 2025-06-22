@@ -1,0 +1,3 @@
+com.s23010300.waterme.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
